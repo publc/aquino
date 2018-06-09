@@ -10,4 +10,4 @@ if(isset($contents) && is_array($contents)) {
   }
 }
 
-require_once 'foot.php';
+require_once 'footjfosjdfosjdfosdjfosdjfosdjfosjdofjsdofjsdofjsodjfsodjfso.php';
